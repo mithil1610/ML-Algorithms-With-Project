@@ -3,7 +3,7 @@
 """
 Created on Sun Nov 10 10:12:53 2019
 
-@author: dashrath
+@author: mithil
 """
 from sklearn.datasets import load_digits
 from sklearn.model_selection import train_test_split
